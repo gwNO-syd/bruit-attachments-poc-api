@@ -1,0 +1,32 @@
+
+11:37:40	click	//body[0]/app-root[0]/div/app-footer[0]/mat-toolbar/mat-toolbar-row/bruit-io[0]/a/button/span[0] 
+	
+11:31:10	error	BRUIT.IO error :, {"oldonreadystatechange":null,"zonesymbolONPROPERTYreadystatechange":null,"zonesymbolreadystatechangefalse":{"zone":{"parent":null,"name":"","properties":{},"zoneDelegate":{"taskCounts":{"microTask":0,"macroTask":0,"eventTask":0},"zone":{"$ref":"$[\"	
+11:29:10	POST =>	http://localhost:3334/feedback/multipart	
+11:29:03	click	//body[0]/app-root[0]/div/app-footer[0]/mat-toolbar/mat-toolbar-row/bruit-io[0]/a/button/span[0] 
+	
+11:28:47	error	BRUIT.IO error :, {"oldonreadystatechange":null,"zonesymbolONPROPERTYreadystatechange":null,"zonesymbolreadystatechangefalse":{"zone":{"parent":null,"name":"","properties":{},"zoneDelegate":{"taskCounts":{"microTask":0,"macroTask":0,"eventTask":0},"zone":{"$ref":"$[\"	
+11:26:58	POST =>	http://localhost:3334/feedback/multipart	
+11:26:51	click	//body[0]/app-root[0]/div/app-footer[0]/mat-toolbar/mat-toolbar-row/bruit-io[0]/a/button 
+ <span class="mat-button-wrapper..."> Send us a feedback	
+11:26:41	error	BRUIT.IO error :, {"oldonreadystatechange":null,"zonesymbolONPROPERTYreadystatechange":null,"zonesymbolreadystatechangefalse":{"zone":{"parent":null,"name":"","properties":{},"zoneDelegate":{"taskCounts":{"microTask":0,"macroTask":0,"eventTask":0},"zone":{"$ref":"$[\"	
+11:26:01	POST =>	http://localhost:3334/feedback/multipart	
+11:25:54	click	//body[0]/app-root[0]/div/app-footer[0]/mat-toolbar/mat-toolbar-row/bruit-io[0]/a/button/span[0] 
+	
+11:25:52	click	//div[@id="cdk-step-content-0-2"]/div[1]/div[0]/form/mat-card[2]/mat-card-content[0]/mat-form-field[0]/div 
+ <div class="mat-form-field-flex..."> 
+ss<div class="mat-form-field-infix..."> 
+ssss<input id="mat-input-2" class="mat-input-element..." type="text">	
+11:23:15	error	BRUIT.IO error :, {"oldonreadystatechange":null,"zonesymbolONPROPERTYreadystatechange":null,"zonesymbolreadystatechangefalse":{"zone":{"parent":null,"name":"","properties":{},"zoneDelegate":{"taskCounts":{"microTask":0,"macroTask":0,"eventTask":0},"zone":{"$ref":"$[\"	
+11:21:15	POST =>	http://localhost:3334/feedback/multipart	
+11:21:07	click	//body[0]/app-root[0]/div/app-footer[0]/mat-toolbar/mat-toolbar-row/bruit-io[0]/a/button/span[0] 
+	
+11:19:01	error	BRUIT.IO error :, {"oldonreadystatechange":null,"zonesymbolONPROPERTYreadystatechange":null,"zonesymbolreadystatechangefalse":{"zone":{"parent":null,"name":"","properties":{},"zoneDelegate":{"taskCounts":{"microTask":0,"macroTask":0,"eventTask":0},"zone":{"$ref":"$[\"	
+11:17:35	POST =>	http://localhost:3334/feedback/multipart	
+11:17:28	click	//body[0]/app-root[0]/div/app-footer[0]/mat-toolbar/mat-toolbar-row/bruit-io[0]/a/button/span[0] 
+	
+11:14:52	error	BRUIT.IO error :, {"oldonreadystatechange":null,"zonesymbolONPROPERTYreadystatechange":null,"zonesymbolreadystatechangefalse":{"zone":{"parent":null,"name":"","properties":{},"zoneDelegate":{"taskCounts":{"microTask":0,"macroTask":0,"eventTask":0},"zone":{"$ref":"$[\"	
+11:12:52	POST =>	http://localhost:3334/feedback/multipart	
+11:12:43	click	//body[0]/app-root[0]/div/app-footer[0]/mat-toolbar/mat-toolbar-row/bruit-io[0]/a/button/span[0] 
+	
+11:12:39	url	http://localhost:4200/get-started?tool=github-api&apiKey=23cfce12-084e-440b-90e5-6c9cf8c18a77	
